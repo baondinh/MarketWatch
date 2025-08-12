@@ -1,2 +1,5 @@
 # Ignore environment vars
 /.env
+
+# Ignore example output
+/output
